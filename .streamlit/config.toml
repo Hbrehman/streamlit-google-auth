@@ -1,0 +1,10 @@
+[server]
+headless = true
+address = "localhost"
+port = 8501
+
+[theme]
+primaryColor = "#2C5282"
+secondaryBackgroundColor = "#F7FAFC"
+textColor = "#2D3748"
+font = "IBM Plex Sans"
